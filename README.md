@@ -11,3 +11,7 @@ I am an aspiring Full Stack Developer
 
 ![git](https://user-images.githubusercontent.com/69340321/116725567-ada5a200-a9ff-11eb-9d1d-fd802e9f408e.png)
 
+<hr/>
+
+Skills: REACT / JS / HTML / CSS/ NODE/ REDUX
+
