@@ -5,7 +5,7 @@ I am an aspiring Full Stack Developer
 
 
 
-- 🌱 I’m currently learning  learning Full Stack Web Develoment
+- 🌱 I’m currently learning Full Stack Web Develoment
 - 📫 How to reach me: prabhu.sid97@gmail.com
 
 
